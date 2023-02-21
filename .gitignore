@@ -1,3 +1,6 @@
 /node_modules
 package-lock.json
 package.json
+
+**/frontend/node_modules/**
+# test
